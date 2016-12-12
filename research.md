@@ -1,5 +1,6 @@
 # todo
 
+- wochimizu
 - Attention after CNN
 - Language modeling with fonts
 - Word classification with fonts
