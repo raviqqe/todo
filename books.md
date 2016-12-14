@@ -8,6 +8,7 @@
 - SICP
 
 - Integrated Information Theory
+- Ian Goodfellow etc., Deep Learning, MIT Press
 
 
 # doing
