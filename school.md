@@ -8,3 +8,4 @@
 - TOEFL
   - 1月末まで
 - PRシート
+- Pass pictures to 渉外広報部
