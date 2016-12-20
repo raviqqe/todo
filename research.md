@@ -8,3 +8,7 @@
 
 - Language modeling with fonts
 - Word classification with fonts
+
+- VGG : font -> char
+  - 2 fastText papers
+  - RNN : char -> word
