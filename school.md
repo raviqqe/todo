@@ -8,4 +8,5 @@
 - TOEFL
   - 1月末まで
 - PRシート
+  - Deadline: Jan 10
 - Pass pictures to 渉外広報部
