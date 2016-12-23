@@ -1,5 +1,6 @@
 # todo
 
+- gitweb for juniors
 - mesos-cluster project
 - node-management repo with ansible
 
