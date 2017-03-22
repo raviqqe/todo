@@ -1,14 +1,6 @@
 # todo
 
-- TTIC 精算
-- TTIC 報告書
-  - 1月末まで
-  - 書式は任意、A4で3枚以上
-  - 英語で作成
-  - 内容：生活面,学習面,この留学経験を今後どのように生かすかの3点について記述
-  - 提出期限：2017年1月末日
-  - 提出先：学生部 国際化・インターンシップ推進グループ（指導教員押印不要）
-
-- 機械学習のシラバスある？ -> 学生部
-- 中間報告書
-  - 1月末まで
+- English dictionary
+- TA application
+  - Talk to a professor.
+- Get materials of class registry
