@@ -1,6 +1,4 @@
 # todo
 
-- English dictionary
-- TA application
-  - Talk to a professor.
-- Get materials of class registry
+- Bring TA report to the English teacher
+- Pass pictures taken in TTI-C to global group
